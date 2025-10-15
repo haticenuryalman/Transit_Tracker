@@ -78,7 +78,7 @@ private const string ConnectionString =
     "Server=DESKTOP-0O4CJLI\\MSSQLSERVER01;Database=SeferYonetim;Trusted_Connection=True;";
 ```
 
-> 📝 Replace `DESKTOP-0O4CJLI\\MSSQLSERVER01` with your own SQL Server name if running locally.
+>  Replace `DESKTOP-0O4CJLI\\MSSQLSERVER01` with your own SQL Server name if running locally.
 
 ---
 
