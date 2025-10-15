@@ -44,7 +44,7 @@ This project was developed as a **final exam project**, demonstrating database i
 
 ## Database Structure
 
-**Database Name:** `SeferYonetim`
+**Database Name:** SeferYonetim
 
 ### Table: Seferler
 
