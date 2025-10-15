@@ -1,5 +1,5 @@
 # Transit Tracker  
-*A C# WinForms application for managing trips and passengers.*
+C# WinForms application for managing trips and passengers.*
 
 ---
 
