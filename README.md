@@ -46,7 +46,7 @@ This project was developed as a **final exam project**, demonstrating database i
 
 **Database Name:** `SeferYonetim`
 
-### Table: `Seferler`
+### Table: Seferler
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -56,7 +56,7 @@ This project was developed as a **final exam project**, demonstrating database i
 | VarisSehri | nvarchar(100) | Arrival city |
 | KalkisSaati | nvarchar(50) | Departure time |
 
-### Table: `Yolcular`
+### Table: Yolcular
 
 | Column | Type | Description |
 |--------|------|-------------|
